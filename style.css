@@ -10,3 +10,14 @@ header {
   text-align: center;
 }
 
+.list {
+  text-align: center;
+  padding: 15px 0;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.list-item {
+  display: inline-block;
+  margin: 0 20px;
+}
